@@ -4,7 +4,7 @@ What is a Scuttleverse Portal?
 
 ## Abstract
 
-A Scuttleverse portal is a website where all user generated content is created by a Scuttlebutt client running in the browser. The user expirience is very similar to a regular website, but the user account is not tied to the website but a Scuttlebutt identity stored in the browser.
+A Scuttleverse portal is a website where all user generated content is created by a Scuttlebutt client running in the browser. The user expirience is very similar to a regular website, but the user account is not tied to the website but a Scuttlebutt identity stored in the browser. This means that the account can be transfered to another portal or used with a standalone scuttebutt client.
 
 ## Actors
 
