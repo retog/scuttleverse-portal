@@ -38,4 +38,4 @@ The browser client establishes a Scuttlebutt connection over a websocket connect
 
 ### Addtional Connections
 
-The client can estabish a Scuttlebutt connection to any host their browser can establish a websocket connection.
+The user can estabish a Scuttlebutt connection to any host their browser can establish a websocket connection.
