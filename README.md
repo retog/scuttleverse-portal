@@ -20,9 +20,9 @@ The person that operates the portal and has access to its private key.
 
 ### The Portal Server
 
-[1] The software running the web portal
-[2] An instance of a portal server [1]
-[3] A host or cluster running a portal server [2]
+1. The software running the web portal
+2. An instance of a portal server [1]
+3. A host or cluster running a portal server [2]
 
 ## Requirements
 
